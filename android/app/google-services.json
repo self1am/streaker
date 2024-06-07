@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1052005691215",
+    "project_id": "streaker-j7lfty",
+    "storage_bucket": "streaker-j7lfty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052005691215:android:bd55d7d3ce616b97a11f3a",
+        "android_client_info": {
+          "package_name": "com.majestta.streaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052005691215-l89i255ra13thqjhpblocek8o0pl9l5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.majestta.streaker",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1052005691215-n1rg7ljh5o391jgi332h845elkc9m00u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw5T92Pt9VodwgzYC4Vgz0u7O1sMwQrzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052005691215-n1rg7ljh5o391jgi332h845elkc9m00u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1052005691215-g63trdcu5vel414tinrkbh5iv02s73on.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.majestta.streaker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
